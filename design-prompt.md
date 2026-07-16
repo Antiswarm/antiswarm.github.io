@@ -7,13 +7,14 @@ We can use Astro latest GA release since we also want to think about publishing 
 In the foreground of the background (defined below) we want the text:
 
 "Antiswarm" in the google font Baskerville SC which you can reference and retrieve here:
+https://fonts.google.com/specimen/Baskervville+SC?preview.script=Latn
 
 the "Antiswarm" is vertically center aligned in the upper third of the page and horizontally centered.
 
 We expect this font in this hex code: #FFA4C8
 
 
-There is also a "©Antiswarm 2026" text in the font "DM Mono" (also a google font available for reference & retrieval here: ) aligned in the bottom-left of the page with around 20 pixels of left/right padding and in the same #FFA4C8 color.
+There is also a "©Antiswarm 2026" text in the font "DM Mono" (also a google font available for reference & retrieval here: https://fonts.google.com/specimen/DM+Mono?preview.script=Latn ) aligned in the bottom-left of the page with around 20 pixels of left/right padding and in the same #FFA4C8 color.
 
 
 ```
